@@ -2,5 +2,7 @@
 Group of simple games on the arduino
 
 Check ArdupongCircuit.png for circuit diagram.
-/TODO
+
+//TODO
+
 //add pinout for circuit
